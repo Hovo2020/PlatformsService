@@ -1,0 +1,5 @@
+C:\Users\kazho\OneDrive\Desktop\e3\PlatformsService\PlatformsService\obj\Debug\net8.0\PlatformsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazho\OneDrive\Desktop\e3\PlatformsService\PlatformsService\obj\Debug\net8.0\PlatformsService.AssemblyInfoInputs.cache
+C:\Users\kazho\OneDrive\Desktop\e3\PlatformsService\PlatformsService\obj\Debug\net8.0\PlatformsService.AssemblyInfo.cs
+C:\Users\kazho\OneDrive\Desktop\e3\PlatformsService\PlatformsService\obj\Debug\net8.0\PlatformsService.csproj.CoreCompileInputs.cache
+C:\Users\kazho\OneDrive\Desktop\e3\PlatformsService\PlatformsService\obj\Debug\net8.0\PlatformsService.MvcApplicationPartsAssemblyInfo.cache
